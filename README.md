@@ -1,4 +1,4 @@
-# Capthca-Solver-Using-Speech-Recognition
+# Captcha-Solver-Using-Speech-Recognition
 
 This Python program automatically generates a CAPTCHA and verifies user input via speech recognition.
 
