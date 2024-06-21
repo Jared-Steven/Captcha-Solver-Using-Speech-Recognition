@@ -15,7 +15,7 @@ This Python program automatically generates a CAPTCHA and verifies user input vi
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone [https://github.com/Jared-Steven/Capthca-Solver-Using-Speech-Recognition.git]
+    git clone https://github.com/Jared-Steven/Capthca-Solver-Using-Speech-Recognition.git
     ```
 2. Install the required libraries:
     ```sh
